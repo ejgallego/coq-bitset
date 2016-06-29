@@ -1,0 +1,3 @@
+[submodule "ssrbit"]
+	path = ssrbit
+	url = git@github.com:ejgallego/ssrbit.git

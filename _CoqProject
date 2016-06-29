@@ -1,4 +1,9 @@
+-R ssrbit/theories ssrbit
 -R src Bitset
+
+ssrbit/theories/bitseq.v
+ssrbit/theories/bitset.v
+
 src/bitset.v
 src/spec.v
 src/repr_op.v
